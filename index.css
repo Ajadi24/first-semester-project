@@ -1,0 +1,38 @@
+/* Welcome to my external css playbook */
+
+/* Styling all my html pages */
+.about,.form, .school, .media{
+    /* background-color: rgb(124, 141, 114); */
+    background-color: #f9f9f9;
+}
+
+/* Styling the schools page */
+    .top{
+    display: grid;
+    grid-template-columns: 150px 280px 250px repeat(2, 1fr) ;
+    /* grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); */
+    background-color:aliceblue;
+    text-align: center;
+    border: 10px;
+    border-width: 2px;
+    border-style:solid;
+    border-color: rgb(17, 2, 2);
+    }
+
+/* To Style the background of the courses */
+#flexhead{
+    display: grid;
+    grid-column: span 4;
+    background-color: rgb(221, 217, 212);
+}
+
+/* To Style the background of the schools */
+.container1{
+    background-color: rgb(163, 161, 157);
+}
+
+/* Styling my media files */
+/* video.align-left{
+    display: inline-block;
+    margin: 0px auto;
+} */
