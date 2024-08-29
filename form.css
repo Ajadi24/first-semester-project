@@ -1,4 +1,4 @@
-
+/* Welcome to my signup page css rule sets */
 * {
     margin: 0;
     padding: 0;
@@ -16,6 +16,7 @@ body {
     flex-direction: row;
     min-height: 100vh;
     background-color: white;
+    background-color: rgb(149, 77, 77);
 }
 
 .left-section {

@@ -26,13 +26,13 @@
     background-color: rgb(221, 217, 212);
 }
 
+/* To make paragraph of schools page more responsive */
+.courses{
+    width:max-content;
+}
+
 /* To Style the background of the schools */
 .container1{
     background-color: rgb(163, 161, 157);
 }
 
-/* Styling my media files */
-/* video.align-left{
-    display: inline-block;
-    margin: 0px auto;
-} */
