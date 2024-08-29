@@ -2,8 +2,8 @@
 
 /* Styling all my html pages */
 .about,.form, .school, .media{
-    /* background-color: rgb(124, 141, 114); */
-    background-color: #f9f9f9;
+    background-color: rgb(124, 141, 114);
+    /* background-color: #f9f9f9; */
 }
 
 /* Styling the schools page */
